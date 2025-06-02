@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Rajanya",
+        "score": 1
+    },
+    {
+        "name": "Raj",
+        "score": 4
+    },
+    {
+        "name": "ravi",
+        "score": 3
+    },
+    {
+        "name": "gita",
+        "score": 4
+    },
+    {
+        "name": "sita",
+        "topic": "arts",
+        "score": 4
+    },
+    {
+        "name": "riri",
+        "topic": "arts",
+        "score": 1
+    },
+    {
+        "name": "james",
+        "topic": "movies",
+        "score": 3
+    },
+    {
+        "name": "sia",
+        "topic": "history",
+        "score": 2
+    },
+    {
+        "name": "sds",
+        "topic": "arts",
+        "score": 1
+    },
+    {
+        "name": "zdv",
+        "topic": "movies",
+        "score": 2
+    },
+    {
+        "name": "rsk",
+        "topic": "science",
+        "score": 4
+    },
+    {
+        "name": "xfb",
+        "topic": "history",
+        "score": 4
+    },
+    {
+        "name": "fgfn",
+        "topic": "science",
+        "score": 0
+    },
+    {
+        "name": "gnf",
+        "topic": "movies",
+        "score": 2
+    },
+    {
+        "name": "db",
+        "topic": "arts",
+        "score": 3
+    },
+    {
+        "name": "dbdb",
+        "topic": "history",
+        "score": 1
+    },
+    {
+        "name": "dgnn",
+        "topic": "movies",
+        "score": 2
+    },
+    {
+        "name": "khhj",
+        "topic": "science",
+        "score": 1
+    },
+    {
+        "name": "jh",
+        "topic": "science",
+        "score": 3
+    }
+]

@@ -1,0 +1,38 @@
+# Node.js / React frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+/frontend/.env
+/frontend/.vite
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / Flask backend
+/backend/__pycache__/
+/backend/*.pyc
+/backend/env/
+/backend/venv/
+/backend/.env
+/backend/.pytest_cache/
+/backend/.mypy_cache/
+/backend/.venv/
+/backend/instance/
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+*.swp
