@@ -26,22 +26,23 @@ Users can take quizzes on different topics, submit answers, and view a leaderboa
 
 ## 📂 **Project Structure**
 
+```plaintext
 QuizApp/
 ├── backend/
-│ ├── app.py
-│ ├── questions.json
-│ ├── leaderboard.json
+│   ├── app.py
+│   ├── questions.json
+│   ├── leaderboard.json
 ├── frontend/
-│ ├── components/
-│ │ ├── Quiz.tsx
-│ │ ├── Leaderboard.tsx
-│ │ ├── Navbar.tsx
-│ ├── pages/
-│ │ ├── Home.tsx
-│ ├── App.tsx
-│ ├── main.tsx
-│ ├── index.css
-│ ├── ...
+│   ├── components/
+│   │   ├── Quiz.tsx
+│   │   ├── Leaderboard.tsx
+│   │   ├── Navbar.tsx
+│   ├── pages/
+│   │   ├── Home.tsx
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
+│   ├── ...
 
 ---
 
