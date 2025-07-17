@@ -56,8 +56,7 @@ cd QuizApp
 2️⃣ Setup & Run Backend
 # Go to backend folder
 cd backend
-```
-```
+
 # (Optional but recommended) Create virtual environment
 python -m venv venv
 
@@ -75,7 +74,8 @@ set FLASK_APP=app.py    # Windows
 export FLASK_APP=app.py # Mac/Linux
 flask run
 By default, the backend runs on http://localhost:5000.
-
+```
+```bash
 3️⃣ Setup & Run Frontend
 
 # Open a new terminal
@@ -88,7 +88,7 @@ npm install
 npm run dev   # if Vite
 npm start     # if CRA
 By default, the frontend runs on http://localhost:3000 or http://localhost:5173.
-
+```
 🧩 API Endpoints
 GET /questions/<topic> → Get 10 questions for selected topic.
 
