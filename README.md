@@ -51,7 +51,7 @@ QuizApp/
 ```bash
 git clone https://github.com/YOUR_USERNAME/QuizApp.git
 cd QuizApp
-2️⃣ Setup & Run Backend
+### 2️⃣ Setup & Run Backend
 # Go to backend folder
 cd backend
 
