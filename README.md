@@ -24,6 +24,7 @@ QuizApp/
 │   ├── main.tsx
 │   ├── index.css
 │   ├── ...
+```
 🚀 How to Run
 1️⃣ Clone the repository
 bash
