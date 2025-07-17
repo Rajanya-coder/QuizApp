@@ -1,35 +1,58 @@
 # QuizApp 🎓
 
-A simple full-stack quiz application built with **React (TypeScript)** for the frontend and **Flask** for the backend.  
-Users can take quizzes by topic, see their scores, and check the leaderboard.
+A simple full-stack Quiz Application built with **Flask** for the backend and **React + TypeScript** for the frontend.  
+Users can take quizzes on different topics, submit answers, and view a leaderboard of top scores.
+
+---
+
+## 📌 **Features**
+
+- Select from multiple quiz topics (Science, Arts, Movies, History)
+- 10 random questions per topic
+- Score calculation and immediate feedback
+- Leaderboard tracking with name, topic, score, percentage, and date
+- Data stored in JSON files *(to be upgraded to MySQL database)*
+
+---
+
+## 🛠️ **Tech Stack**
+
+- **Frontend:** React, TypeScript, HTML, CSS
+- **Backend:** Python, Flask, Flask-CORS
+- **Data Storage:** JSON files (questions & leaderboard)
+- **Version Control:** Git, GitHub
 
 ---
 
 ## 📂 **Project Structure**
 
-```plaintext
 QuizApp/
 ├── backend/
-│   ├── app.py
-│   ├── questions.json
-│   ├── leaderboard.json
+│ ├── app.py
+│ ├── questions.json
+│ ├── leaderboard.json
 ├── frontend/
-│   ├── components/
-│   │   ├── Quiz.tsx
-│   │   ├── Leaderboard.tsx
-│   │   ├── Navbar.tsx
-│   ├── pages/
-│   │   ├── Home.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   ├── index.css
-│   ├── ...
-```
-🚀 How to Run
-1️⃣ Clone the repository
-bash
+│ ├── components/
+│ │ ├── Quiz.tsx
+│ │ ├── Leaderboard.tsx
+│ │ ├── Navbar.tsx
+│ ├── pages/
+│ │ ├── Home.tsx
+│ ├── App.tsx
+│ ├── main.tsx
+│ ├── index.css
+│ ├── ...
+
+yaml
 Copy
 Edit
+
+---
+
+## 🚀 **How to Run**
+
+### 1️⃣ Clone the repository
+```bash
 git clone https://github.com/YOUR_USERNAME/QuizApp.git
 cd QuizApp
 2️⃣ Setup & Run Backend
@@ -52,10 +75,8 @@ source venv/bin/activate
 pip install flask flask-cors
 
 # Run Flask server
-# Windows:
-set FLASK_APP=app.py
-# Mac/Linux:
-export FLASK_APP=app.py
+set FLASK_APP=app.py    # Windows
+export FLASK_APP=app.py # Mac/Linux
 flask run
 By default, the backend runs on http://localhost:5000.
 
@@ -99,5 +120,8 @@ Suggestions & bug reports are welcome!
 📧 Contact
 Author: Rajanya
 GitHub: Rajanya-coder
+
+📸 Screenshots
+(Add screenshots here if you have any!)
 
 Thanks for checking this out! 🎉
