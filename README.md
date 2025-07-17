@@ -51,10 +51,13 @@ QuizApp/
 ```bash
 git clone https://github.com/YOUR_USERNAME/QuizApp.git
 cd QuizApp
-### 2️⃣ Setup & Run Backend
+```
+```bash
+2️⃣ Setup & Run Backend
 # Go to backend folder
 cd backend
-
+```
+```
 # (Optional but recommended) Create virtual environment
 python -m venv venv
 
