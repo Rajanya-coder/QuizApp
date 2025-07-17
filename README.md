@@ -43,10 +43,6 @@ QuizApp/
 │ ├── index.css
 │ ├── ...
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 **How to Run**
@@ -56,9 +52,6 @@ Edit
 git clone https://github.com/YOUR_USERNAME/QuizApp.git
 cd QuizApp
 2️⃣ Setup & Run Backend
-bash
-Copy
-Edit
 # Go to backend folder
 cd backend
 
@@ -81,9 +74,7 @@ flask run
 By default, the backend runs on http://localhost:5000.
 
 3️⃣ Setup & Run Frontend
-bash
-Copy
-Edit
+
 # Open a new terminal
 cd frontend
 
@@ -121,7 +112,5 @@ Suggestions & bug reports are welcome!
 Author: Rajanya
 GitHub: Rajanya-coder
 
-📸 Screenshots
-(Add screenshots here if you have any!)
 
 Thanks for checking this out! 🎉
